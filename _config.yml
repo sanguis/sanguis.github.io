@@ -1,12 +1,26 @@
 # Site settings
 title: Josh Beauregard - DevOps Consultant
-email: josh.beaureg@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Most people like to get things done. I like to do things better.
+description: Most people like to get things done. I like to do things better.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://sanguis.github.io" # the base hostname & protocol for your site
-twitter_username: sanguisdev
-github_username:  sanguis
+author:
+  name: 'Josh Beauregard'
+  email: josh.beaureg@gmail.com
+  twitter_username: sanguisdev
+  github_username:  sanguis
+  linkedin_username:  joshuabeauregard
 
 # Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
 markdown: kramdown
+highlighter: pygments
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
