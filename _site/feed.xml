@@ -5,9 +5,20 @@
     <description>Most people like to get things done. I like to do things better.</description>
     <link>https://sanguis.github.io/</link>
     <atom:link href="https://sanguis.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 26 Jan 2016 12:16:30 -0500</pubDate>
-    <lastBuildDate>Tue, 26 Jan 2016 12:16:30 -0500</lastBuildDate>
+    <pubDate>Tue, 26 Jan 2016 12:24:57 -0500</pubDate>
+    <lastBuildDate>Tue, 26 Jan 2016 12:24:57 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Test Kitchen Driver Not Found</title>
+        <description>&lt;p&gt;Test Kitchen, Driver ‘docker’ not found&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Jan 2016 00:00:00 -0500</pubDate>
+        <link>https://sanguis.github.io/2016/Test-Kitchen-Driver-Not-Found/</link>
+        <guid isPermaLink="true">https://sanguis.github.io/2016/Test-Kitchen-Driver-Not-Found/</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>
