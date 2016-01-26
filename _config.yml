@@ -2,7 +2,7 @@
 title: Josh Beauregard - DevOps Consultant
 description: Most people like to get things done. I like to do things better.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://sanguis.github.io" # the base hostname & protocol for your site
+url: "https://sanguis.github.io" # the base hostname & protocol for your site
 author:
   name: 'Josh Beauregard'
   email: josh.beaureg@gmail.com
