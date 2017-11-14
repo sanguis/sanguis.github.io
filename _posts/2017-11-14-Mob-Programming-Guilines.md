@@ -34,7 +34,7 @@ Researching or helping the Navigator figure things out by:
   * Providing technical knowledge.
 * __Auditors__: Observers learning and absorbing.
 
-## Guidelines
+## General Guidelines
 
 * Have a spec to work to. 
 * No talking when your not the _Navigator_ unless invited or if you are a _Product Owner_ you can can inforce the needs of the product.
@@ -44,28 +44,34 @@ Researching or helping the Navigator figure things out by:
 
 ### Navagation guide lines.
 
+__Intent -> Technical -> Dictation__
+
 When giving directions it is best to start with your intent over syntax. Drivers may have other methods of achaving the same result then the navigator and it is beter for them to use the process that they are fimilier with rather then having to relean on the fly how to use an IDE or syxtax for a process.
 
-When a Navigator starts with, "To reduce cruft. search and replace all instances of foo with bar". This gives the diver more freedom than. "type, colon, percentage sign, slash, foo, slash, bar, slash, g enter".
+A sentence with "In Order to, do a task, please do this" is a great starting point.
 
-So start your directives with Intent and let the driver tell you that he does no know how.
+If the navigaotr hesitates or asks how, provide them with a technical hint, such as a function or method that they want to use.
+
+If there is is still hesitation on the Drivers part, then a Navigator can feel free to dictate key strokes.
+
+#### Sample diolog
+
+__Intent__
+> We need to create a condtional based on whether or not foo equals bar.
+
+__Technical__
+> Create an _if_ block with the argument being foo equals bar.
+
+__Dictated__
+> Please type if. Open prenethises. Variable foo, double equal signs. Space in quotes , bar. ....
 
 ## Josh's single inflexable Rule
 
-* NO DELETING. Replace to spec. This is a hurt managment rule. It is better to explain why somehing need to be replaced than to tell people they they were wrong and all their efforts need to be deleted.
+* NO DELETING. Replace to spec. This is a pain managment rule. It is better to explain why somehing need to be replaced than to tell people they they were wrong and all their efforts need to be deleted.
 
 ## Planning the event.
 
-All participants other then auditors need to have:
-__Either__
-* Access to a work station capable of editing and testing the software.
-* A git client
-* Read Write Access to the code repository/branch worked on.
-* A fave texteditor
-
-__Or__
- 
-The ability to share a workspace set up for that.
+All participants need the ability to share a workspace set up for that.
 
 ## Mob event invites should include:
 
