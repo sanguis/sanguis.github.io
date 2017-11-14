@@ -8,7 +8,7 @@ categories: extreme programming, mobbing
 # Mob Programming Basics
 
 > "All the brilliant minds working together on the same thing, at the same time, in the same space, and at the same computer"
-- Woody Zuil http://mobprogramming.org/
+- Woody Zuil (http://mobprogramming.org/)
 
 ## Goals
 
@@ -22,17 +22,16 @@ categories: extreme programming, mobbing
 
 ## Roles.
 
-* __Navigator__: The person dictating the logic. The only one talking. A required participant in Koans sessions.
-* __Driver__: The person at the keyboard. This person does not need any technical knowledge just willingness to type. A required participant
+* __Navigator__: The person dictating the logic. The only one talking. A required participant in Koans sessions and young teams. In advanced teams this may become the entire mob not just a single person.
+* __Driver__: The person at the keyboard. This person does not need any technical knowledge just willingness to type. This hat will rotate through people through out the session.
 * __The Moberator__: The facilitator of the mob. Organizes location and topics. Looks out for the welfare of the participants, keeps time. Required for beginning the mobbing process but good to have all the time. This can be a rotating hat.
 * __The Product/Task Owner__: This person sets the goals of the session and can provide guidance. An optional participant.
 * __Researcher__: A person dedicated to serching for answers as the mob works. Mobbers can ask them to do technical research or other communcation durring a session so that the mobbers can focus on the code.
-* __The Mob__: Every one else in the room. The will be present and preparing to navigate. Listening and being ready to correct or enhance the code to spec.
+* __The Mob__: Everyone else in the room. The will be present and preparing to navigate. Listening and being ready to correct or enhance the code to spec.
 Researching or helping the Navigator figure things out by:
   * Researching API's.
   * Guiding whiteboards
   * Providing technical knowledge.
-Required participants.
 * __Auditors__: Observers learning and absorbing.
 
 ## Guidelines
@@ -43,11 +42,11 @@ Required participants.
 * Let people be wrong. In 4 mins no one will lead the project too off course from a technical stand point. They seeing where you went wrong is a very strong way to enforce learning.
 * Not all Drivers have to Navigate.
 
-### Navigator Directive guidelines.
+### Navagation guide lines.
 
-When giving directions it is best to start with your intent over syntax. It is a lot easier for a Driver to drive when they know why something to happen.
+When giving directions it is best to start with your intent over syntax. Drivers may have other methods of achaving the same result then the navigator and it is beter for them to use the process that they are fimilier with rather then having to relean on the fly how to use an IDE or syxtax for a process.
 
-Navigating with "To reduce cruft. search and replace all instances of foo with bar". This gives the diver more freedom than. "type, colon, percentage sign, slash, foo, slash, bar, slash, g enter".
+When a Navigator starts with, "To reduce cruft. search and replace all instances of foo with bar". This gives the diver more freedom than. "type, colon, percentage sign, slash, foo, slash, bar, slash, g enter".
 
 So start your directives with Intent and let the driver tell you that he does no know how.
 
