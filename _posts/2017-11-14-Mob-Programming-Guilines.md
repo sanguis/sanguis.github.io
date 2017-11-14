@@ -2,30 +2,37 @@
 layout: post
 title:  "Josh Beauregard's Mob Programming Guidelines"
 date:   2017-11-14 14:00
-categories: extreme programming mobbing
+categories: extreme programming, mobbing
 ---
 
 # Mob Programming Basics
 
+> "All the brilliant minds working together on the same thing, at the same time, in the same space, and at the same computer"
+- Woody Zuil http://mobprogramming.org/
+
 ## Goals
 
 * Get the task at hand done
-* Create knowledge redundancy
-* Bring skillets together to create stronger tools
-* Learn the tools used in the session
-
+* Create knowledge redundancy accoss WIP and finished work.
+* Bring skillets together to create stronger everything:
+  * Engeneers who mob generally have a greater undestaning of all the parts.
+  * Product owners who mob have a greater understanding of feature pain points.
+  * Mobbed code is genreally less error prone due to multiple eyes.
+* Reduced need for code review process as it's is combined into the dev session.
 
 ## Roles.
 
-* __The Moberator__: The facilitator of the mob. Organizes location and topics. Looks out for the welfare of the participants, keeps time.
-* __The Product/Task Owner__: This person sets the goals of the session and can provide guidance.
-* __Navigator__: The person dictating the logic. The only one talking.
-* __Driver__: The person at the keyboard. This person does not need any technical knowledge
+* __Navigator__: The person dictating the logic. The only one talking. A required participant in Koans sessions.
+* __Driver__: The person at the keyboard. This person does not need any technical knowledge just willingness to type. A required participant
+* __The Moberator__: The facilitator of the mob. Organizes location and topics. Looks out for the welfare of the participants, keeps time. Required for beginning the mobbing process but good to have all the time. This can be a rotating hat.
+* __The Product/Task Owner__: This person sets the goals of the session and can provide guidance. An optional participant.
+* __Researcher__: A person dedicated to serching for answers as the mob works. Mobbers can ask them to do technical research or other communcation durring a session so that the mobbers can focus on the code.
 * __The Mob__: Every one else in the room. The will be present and preparing to navigate. Listening and being ready to correct or enhance the code to spec.
 Researching or helping the Navigator figure things out by:
   * Researching API's.
   * Guiding whiteboards
-  * Providing technical knowledge.
+  * Providing technical knowledge.
+Required participants.
 * __Auditors__: Observers learning and absorbing.
 
 ## Guidelines
