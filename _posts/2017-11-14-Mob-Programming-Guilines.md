@@ -10,6 +10,8 @@ categories: extreme programming, mobbing
 > "All the brilliant minds working together on the same thing, at the same time, in the same space, and at the same computer"
 - Woody Zuil (http://mobprogramming.org/)
 
+This is basically _Strong Style_ Pairing with more then a pair.
+
 ## Goals
 
 * Get the task at hand done
@@ -71,20 +73,25 @@ __Dictated__
 
 ## Planning the event.
 
-All participants need the ability to share a workspace set up for that.
+All participants need the ability to share a development workspace includeing keyboard and mouse control.
 
 ## Mob event invites should include:
 
-* A repo for people to pre clone.
-* Goals for the session.
+* A repo for people to pre clone and get firmillier with.
+* Goals/Stories for the session.
 * Links to relevant documentation.
 * Any extra tools needed to take part as defiend but the _Moberator_ or _Product Owner_
+
+## Good starting stories for team building.
+* Code koans
+* Refactoring
+* Test engneering.
 
 ## Tools
 ### Workspace sharing.
 * Skype
-* Screenhero
-* Zoom <- Perfered by me
+* Slack
+* Zoom (Zoom.us) <- Perfered by me
 
 ### White-boarding.
 hackpad.net
