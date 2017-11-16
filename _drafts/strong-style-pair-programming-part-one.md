@@ -9,14 +9,15 @@ A  colleague of mine recently as asked me to distill my 'mob  programming guidel
 
 This process has been defined as 'Strong Style' Pair Programming.
 
-In this part one we will cover getting started wih:
+In this style of pairing, all logic gets vetted by two brilliant minds as it is developed.
 
-* The bennifits of Pairing 
-* The basic roles of strong style pairing. 
-* Communications strategies.
-* Ideal pair programming starter projects.
+## Benefits of Strong Style Pairing
 
-## Benefits of Pairing
+* Two Heads are better then one.
+* Velocity will not suffer if a team member leaves.
+* Rapid mutual education of paring partners.
+* Less Errors get committed.
+* All participants are full engaged at all times.
 
 ## Two roles of strong style pairing
  
