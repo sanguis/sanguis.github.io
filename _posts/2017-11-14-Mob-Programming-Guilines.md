@@ -109,7 +109,7 @@ The bellow items are good for rapid rapport building between developers.
 ### Retros:
 
 https://www.pointingpoker.com/Retro
-* [http://funretro.github.io](Fun Retro)
+* [Fun Retro](http://funretro.github.io)
 
 
 ### Timers
