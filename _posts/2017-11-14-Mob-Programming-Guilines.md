@@ -43,7 +43,7 @@ This is basically _Strong Style_ Pairing with more than a pair.
 * Let people be wrong. In 4 minutes no one will lead the project too off course from a technical stand point. They seeing where you went wrong is a very strong way to enforce learning.
 * Not all Drivers have to Navigate.
 
-### Navagation guide lines.
+### Talking to the Driver.
 
 **Intent -&gt; Technical -&gt; Dictation**
 
@@ -86,9 +86,14 @@ All participants need the ability to share a development workspace including key
 
 ## Good starting stories for team building.
 
+Pair Programming can be awkward at first. Trying to working on new features can be to much pressure for a new pair to work in. 
+The bellow items are good for rapid rapport building between developers.
+
 * Code Koans
 * Refactoring
-* Test engineering.
+* Test engineering
+* Pseudo Coding
+
 
 ## Tools
 
@@ -104,6 +109,8 @@ All participants need the ability to share a development workspace including key
 ### Retros:
 
 https://www.pointingpoker.com/Retro
+* [http://funretro.github.io](Fun Retro)
+
 
 ### Timers
 
