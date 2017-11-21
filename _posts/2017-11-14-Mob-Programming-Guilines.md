@@ -108,7 +108,7 @@ The bellow items are good for rapid rapport building between developers.
 
 ### Retros:
 
-https://www.pointingpoker.com/Retro
+* https://www.pointingpoker.com/Retro
 * [Fun Retro](http://funretro.github.io)
 
 
