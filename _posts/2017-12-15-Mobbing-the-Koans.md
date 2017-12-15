@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mobbing The Koans"
-date:   2017-11-16 14:00
+date:   2017-12-15 12:01
 categories: extreme programming, mobbing programming, Agile
 ---
 
