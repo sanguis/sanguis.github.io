@@ -35,7 +35,7 @@ This also promotes the education of the Navigator of new methods.
 A sentence with "In Order to, do a task, please do this" is a great starting point.
 
 Drivers should feel free to ask how or clarification. Let them prompt for a technical hint or dictation, rather then assuming they do not know.
-![Cadance Flow Chart]{{ "/images/Pair-Programming-cadence.svg" | absolute_url }})
+![Cadance Flow Chart]({{ "/images/Pair-Programming-cadence.svg" | absolute_url }})
 
 ## Ideal pair programming starter sessions.
 Pair Programming can be awkward at first the bellow items are good for rapid rapport building between developers.
