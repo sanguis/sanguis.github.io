@@ -5,8 +5,6 @@ date:   2017-11-14 14:00
 categories: extreme programming, mobbing
 ---
 
-# Mob Programming Basics
-
 > &quot;All the brilliant minds working together on the same thing, at the same time, in the same space, and at the same computer&quot;
 
 &mdash; Woody Zuil ( [http://mobprogramming.org/](http://mobprogramming.org/))
