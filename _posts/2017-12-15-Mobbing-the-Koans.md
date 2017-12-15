@@ -5,7 +5,7 @@ date:   2017-11-16 14:00
 categories: extreme programming, mobbing programming, Agile
 ---
 
-In my [mob programming guidlines]({{site.baseurl }}{% post_url /_posts/2017-12-15-strong-style-pair-programming.md %} posts I mentiond [Koans](http://www.lauradhamilton.com/learn-a-new-programming-language-today-with-koans) as a as a great way to get started with mobbing. Here we will look at this striped down format.
+In my [mob programming guidlines]({{site.baseurl }}{% post_url /_posts/2017-12-15-strong-style-pair-programming.md %}) post, I mentiond [Koans](http://www.lauradhamilton.com/learn-a-new-programming-language-today-with-koans) as a as a great way to get started with mobbing. Here we will look at this striped down format.
 
 ## Roles
 
