@@ -5,7 +5,7 @@ date:   2017-11-16 14:00
 categories: extreme programming, mobbing programming, Agile
 ---
 
-In my [mob programming guidlines]({{site.baseurl }}{% post_url /_posts/2017-12-15-strong-style-pair-programming.md %}) post, I mentiond [Koans](http://www.lauradhamilton.com/learn-a-new-programming-language-today-with-koans) as a as a great way to get started with mobbing. Here we will look at this striped down format.
+In my mob programming guidelines post, I mentioned [Koans](http://www.lauradhamilton.com/learn-a-new-programming-language-today-with-koans) as a as a great way to get started with mobbing. Here we will look at this striped down format.
 
 ## Roles
 
@@ -16,17 +16,17 @@ The Mob : Everyone else in the room. The will be present and preparing to naviga
 
 ## Setup
 
-Idealely there will be no tables other then a shared laptop and a screen for eveyone to see. On the scree you will have your koans work along and current mobbing rules rules.
+Ideally there will be no tables other then a shared laptop and a screen for everyone to see. On the scree you will have your koans work along and current mobbing rules rules.
 
-If a tabless area can not be found then a wireless keyboard and mouse is a nice thing to pass around the table.
+If a tableless area can not be found then a wireless keyboard and mouse is a nice thing to pass around the table.
 
 ## Rotation
 
 In a working mob session rotation will be based on time, in a koans session rotation is based on task or when ever the _moberator_ indicates a need for rotation.
 
-## Mini Retos.
+## Mini Retros.
 
-After evry few tests steps it is good to stop and ask:
+After every few tests steps it is good to stop and ask:
 What have we learned:
 
 * About he code
@@ -36,4 +36,4 @@ What have we learned:
 
 ## Other things to remember
 
-Cadance is a masssive thing. Please remember __Intent → Technical → Dictation__
+Cadence is a massive thing. Please remember __Intent → Technical → Dictation__
