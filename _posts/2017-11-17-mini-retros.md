@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title:  "Mini Retros for Big Returns"
 date:   2017-11-17 14:20
