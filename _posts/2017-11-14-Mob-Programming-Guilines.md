@@ -22,15 +22,22 @@ This is basically _Strong Style_ Pairing with more than a pair.
 * Reduced need for code review process as it&#39;s is combined into the dev session.
 
 ## Roles.
+It shoild be noted the not all roles are needed here add them as you grow or as needed.
 
-* **Navigator**: The person dictating the logic. The only one talking. A required participant in Koans sessions and young teams. In advanced teams this may become the entire mob not just a single person.
-* Driver: The person at the keyboard. This person does not need any technical knowledge just willingness to type. This hat will rotate through people throughout the session.
-* **The Moberator** : The facilitator of the mob. Organizes location and topics. Looks out for the welfare of the participants, keeps time. Required for beginning the mobbing process but good to have all the time. This can be a rotating hat.
+### Required roles
+
+* **Driver**: The person at the keyboard. This person does not need any technical knowledge just willingness to type. This hat will rotate through people throughout the session.
+* **Navigator**: The person dictating the logic. The only one talking. A required participant in Koans sessions and young teams. In advanced teams this may become the entire mob not just a single person. In Advanced teams they might dispence with a dedicated driver and just let _the mob_ directaly navigate he driver.
+* **The Moberator**: The facilitator of the mob.  Can optionally take part in the Nav Moberator rotation. Organizes location and topics. Looks out for the welfare of the participants, keeps time. Required for beginning the mobbing process but good to have all the time. This can be a rotating hat. I would recomend that when new mobs are forming that the Moberator not be part of the mob but just focuses on the hearth of the mob.
+* **The Mob**: Everyone else in the room. The will be present and preparing to navigate. Listening and being ready to correct or enhance the code to spec. Researching or helping the Navigator figure things out by:
+  * Researching API's.
+  * Guiding whiteboards
+  * Providing addtional technical knowledge.
+
+### Optional Roles
+
 * **The Product/Task Owner** : This person sets the goals of the session and can provide guidance. An optional participant.
 * **Researcher** : A person dedicated to searching for answers as the mob works. Mobbers can ask them to do technical research or other communication during a session so that the mobbers can focus on the code.
-* **The Mob** : Everyone else in the room. The will be present and preparing to navigate. Listening and being ready to correct or enhance the code to spec. Researching or helping the Navigator figure things out by:
-  * Researching API&#39;s.
-  * Guiding whiteboards \* providing technical knowledge.
 * **Auditors** : Observers learning and absorbing.
 
 ## General Guidelines
@@ -52,6 +59,9 @@ A sentence with &quot;In Order to, do a task, please do this&quot; is a great st
 If the navigator hesitates or asks how, provide them with a technical hint, such as a function or method that they want to use.
 
 If there is still hesitation on the Drivers part, then a Navigator can feel free to dictate key strokes.
+
+![Cadance Flow Chart]({{ "/images/Pair-Programming-cadence.svg" | absolute_url }})
+
 
 #### Sample diolog
 
