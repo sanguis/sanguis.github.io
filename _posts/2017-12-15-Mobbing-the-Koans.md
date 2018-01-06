@@ -37,3 +37,8 @@ What have we learned:
 ## Other things to remember
 
 Cadence is a massive thing. Please remember __Intent → Technical → Dictation__
+
+
+## Bonus!
+
+[Mobbing the Koans, Slides](https://koans-deck-josh-beauregard.herokuapp.com/) (hit s for speaker notes)
