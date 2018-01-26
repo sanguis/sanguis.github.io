@@ -1,22 +1,29 @@
-I was at work oneday and some of the Developers were complaing about sudden changes that would happen to the CICD pipeline. At the same time the operations PM was puttingtogahter the monthly newsletter but there isjust not room for all the little tests and changes that are comming up. Not gaiting critera, just options.
+In my life one of the ways I view my job as a DevOps practitioner is to find areas of pain in the Value Stream and eliminate it.
 
-I asked how we got the word out and I was informed they have a lunch and learn to inform people of major changes. Then they proceed to make pull requests to the app developers on each apps jenkins files. This is an operations team of 8 people serving a pipleing for almost 150 apps. How many man hours does this take? How much money us spent on just saying sayng hey you can use Retire.js now?
+I was at work one day and some of the Developers were sharing about the pain that comes with sudden changes that happen to the CICD pipeline. 
 
-Pulling devs in for a meeting is expensive, adding to a developers inbox with a sindication is going to get light reading at best. And all that time for PR's. oi 
+The same day the operations PM was putting together the monthly newsletter. I realized that there was  but there is not room for all the little tests and changes that are coming up. Not gating criteria. Just new options.
 
-This is one of the problems that as a DevOps archetect I needed to help solve. The solution came to me in a cup of yogart.
+A little research and I learned the current process for socializing changes. It involves hosting lunch and learn 's or other meetings to inform people of major changes. 
+Then the systems team proceeds to make pull requests to all the app developers on each apps Jenkins files'. This is an operations team of around eight people serving a pipeline for almost 150 apps. How many man hours does this take? How much does it cost to say “Hey you can use Retire.js now”?
 
-I was opening the first cup out of a new case of yogart I had purchased from the local warehose store. In the bottom of the lid was written a message about upcomming changes in in the companies logo and packagaging. I must have seen 50 cups of yogart that looked like this. Every time, I was about to have a snack I would be passivly reminded that soon, I would have to find the new logo when i went to buy it.
+Pulling developers in for a meeting is expensive. Adding to an inbox with a one more syndication is going to get light reading at best. And all that time spent making PR's. Oi.
 
-I dont subscribe to this yogart's newsletter. I have never been to their website. I don;t have a TV so if they had placed advertisments about the change I dont't know. As an esablished brand I can just add their product to my cart and move on with out even looking. Than the day came. I was shopping my brand was gone, there was some new brand in its place. But when I looked a second time the 50 lids of yogart came to me. This was my brand. I was getting my yogart!
+This is one of the problems that as a DevOps architect I needed to help solve. The solution came to me in a cup of yogurt.
 
-This inspred me to make a change to the feed back that the CICD pipeline gives to its users. When one runs a Jenkins job it pings a simple messegeing service and outputs upcomming changes to the users. its mixed in with unit tests and securoty scans.
+I was opening the first cup out of a new case of yogurt I had purchased from the local warehouse store. In the bottom of the lid was a message about upcoming changes in in the company’s logo and packaging. I must have seen this message  on 50 cups of yogurt that looked like this. Every time, I was about to have a snack it would remind me that soon, I would have to find the new logo when I went to buy it.
 
-The CICD customer does not have to do anything more. We as a system provider are providing  _Continuos Communication_ insode of out Continuos Dilvery feedback.
+I don’t subscribe to this yogurt’s newsletter. I have never been to their website. I don’t have a TV so if they had placed advertisements about the change I don’t know. As an established brand I can add their product to my cart and move on without even looking. Finally, the day came. I was shopping my brand was gone, there was some new brand in its place. When I looked a second time the 50 lids of yogurt came to me. This was my brand. I was getting my yogurt! The new design was pretty.
 
-Now when a developer fails a test becuase of some new gaiting crieria it will not be a shock. They will ahve been seeing that upcomming change every day for a month before it happens.
-* I dont have to reley of an email that gets lost in an inbox.
-* I dont have to call an expensive meeting to propagate infomration through team leaders or representive members.
-* I have provided a path to self service as developers become mroe addpet to maintainerin thier own pipline process.
+This inspired me to make a change to the feedback that the CI/CD pipeline gives to its users.  When one interacts with it we can tell them how it will change soon.
 
-More technical details comming soon.
+Now when a Jenkins job runs, it pings a simple messaging service. This service adds news about upcoming changes to the pipeline. It feed back the the user along with with unit tests and security scans. Over and over they see this.
+
+The CICD customer does not have to do anything more to learn about what is on the horizon. As a system provider are providing _Continuous Communication_, inside of the Continuous Delivery.
+
+Now when a developer fails a test because of some new gating criteria it will not be a shock. They will have been seeing that upcoming change everyday for a month before it happens.
+
+* I don’t have to rely of an email that gets lost in an inbox.
+* I don’t have to call an expensive meeting to propagate information, through team leaders or representative members.
+* I have provided a path to self-service as developers become more adept at maintaining their own pipeline processes.
+More technical details coming soon.
