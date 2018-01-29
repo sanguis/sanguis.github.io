@@ -26,4 +26,5 @@ Now when a developer fails a test because of some new gating criteria it will no
 * I don’t have to rely of an email that gets lost in an inbox.
 * I don’t have to call an expensive meeting to propagate information, through team leaders or representative members.
 * I have provided a path to self-service as developers become more adept at maintaining their own pipeline processes.
+
 More technical details coming soon.
